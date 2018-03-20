@@ -1,3 +1,4 @@
+//this code is for checking
 for i in range(int(input())):
     s = str(input())
     count = 0
